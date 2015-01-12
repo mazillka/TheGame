@@ -1,0 +1,30 @@
+<Units>
+	<Unit id="0">
+		<Type>Archer</Type>
+		<Hp>39</Hp>
+		<Damage>13</Damage>
+		<Defence>13</Defence>
+		<Critical>13</Critical>
+	</Unit>
+	<Unit id="1">
+		<Type>Swordsman</Type>
+		<Hp>39</Hp>
+		<Damage>13</Damage>
+		<Defence>13</Defence>
+		<Critical>13</Critical>
+	</Unit>
+	<Unit id="2">
+		<Type>Wizard</Type>
+		<Hp>39</Hp>
+		<Damage>13</Damage>
+		<Defence>13</Defence>
+		<Critical>13</Critical>
+	</Unit>
+	<Unit id="3">
+		<Type>Thief</Type>
+		<Hp>39</Hp>
+		<Damage>13</Damage>
+		<Defence>13</Defence>
+		<Critical>13</Critical>
+	</Unit>
+</Units>
